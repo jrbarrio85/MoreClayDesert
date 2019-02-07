@@ -1,0 +1,5 @@
+<MoreClayDesert>
+	
+	<set xpath="blocks/block[@name='terrDesertGround']/drop[@name='resourceClayLump']/@count">10</set>
+		
+</MoreClayDesert>
